@@ -6,7 +6,7 @@ Hi 👋 My name is Sinan (Maestro)
 
 *   🌍  I'm based in Netherlands
 *   ✉️  You can contact me at [Discord](http://discord.gg/gwVVW4Jhk3)
-*   🚀  I'm currently working on [Qbox Scripts for FiveM] 
+*   🚀  I'm currently working on Qbox Framework Scripts for FiveM 
 *   💡  I'm experienced in HTML/CSS/JAVASCRIPT/JQUERY
 *   🧠  I'm currently learning LUA
 *   🤝  I'm open to collaborating on FiveM Scripts/Projects
